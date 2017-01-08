@@ -1,0 +1,29 @@
+.m-b {
+    margin-bottom: 15px;
+}
+.full-width {
+    width: 100% !important;
+}
+
+.block {
+    display: block;
+}
+
+.gray-bg {
+    background-color: #f3f3f4;
+}
+
+.middle-box {
+    max-width: 400px;
+    z-index: 100;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.middle-box h1 {
+    font-size: 170px;
+}
+.strong {
+	font-weight: bold;
+	color: #dd4b39;
+}
